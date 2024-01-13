@@ -1,5 +1,8 @@
 ## Kotlin Starter Template For Vscode With Koltin Language Server
 
+Server Files
+https://github.com/fwcd/kotlin-language-server/releases
+
 Extenstions
 
 https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin
