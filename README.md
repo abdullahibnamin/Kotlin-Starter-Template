@@ -1,15 +1,14 @@
 ## Kotlin Starter Template For Vscode With Koltin Language Server
 
-Server Files
+### Server Files  
 https://github.com/fwcd/kotlin-language-server/releases
 
-Extenstions
-
+### Extenstions  
 https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin
 https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin
 
 
-Compile command
+### Compile command
 ```
 kotlinc main.kt sums.kt -include-runtime -d main.jar
 java -jar main.jar
