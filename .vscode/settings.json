@@ -1,0 +1,6 @@
+{
+    "kotlin.languageServer": {
+      "enabled": true,
+      "server": ".vscode/settings.json"
+    }
+}
