@@ -1,4 +1,4 @@
-## Kotlin Starter Template For Vscode With Koltin Language Server
+## Kotlin Starter Template For Vscode With Kotlin Language Server
 
 ### Server Files  
 https://github.com/fwcd/kotlin-language-server/releases
