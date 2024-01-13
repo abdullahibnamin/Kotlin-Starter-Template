@@ -4,7 +4,7 @@
 https://github.com/fwcd/kotlin-language-server/releases
 
 ### Extenstions  
-https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin
+https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin  
 https://marketplace.visualstudio.com/items?itemName=fwcd.kotlin
 
 
